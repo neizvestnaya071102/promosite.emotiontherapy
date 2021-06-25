@@ -246,6 +246,7 @@ b {
 .swiper-slide-thin {
   min-width: 406px !important;
   max-width: 406px;
+  width: 406px !important;
 }
 .swiper-arrow-next, .swiper-arrow-prev {
   width: 40px;
