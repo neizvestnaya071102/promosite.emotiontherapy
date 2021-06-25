@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Tone";
-  src: url("/fonts/Kharkiv Tone 04.10.2020.ttf");
+  src: url("fonts/Kharkiv Tone 04.10.2020.ttf");
 }
 * {
   box-sizing: border-box;
