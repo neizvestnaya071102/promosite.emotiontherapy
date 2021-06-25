@@ -244,9 +244,9 @@ b {
      object-fit: cover;
 }
 .swiper-slide-thin {
-  min-width: 406px !important;
-  max-width: 406px;
-  width: 406px !important;
+  min-width: 402px !important;
+  max-width: 402px;
+  width: 402px !important;
 }
 .swiper-arrow-next, .swiper-arrow-prev {
   width: 40px;
